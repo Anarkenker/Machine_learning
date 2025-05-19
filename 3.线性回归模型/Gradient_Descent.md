@@ -60,8 +60,8 @@ $$tmp_w = w - \alpha \frac{\partial J(w,b)}{\partial w}$$ $$tmp_b = b - \alpha \
 
 # 线性回归的梯度下降
 
-$$ \frac{\partial J(w,b)}{\partial w} = \frac{1}{m} \sum_{i=1}^{m} (f_w,_b(x^{(i)}) - y^{(i)})x^{(i)} $$
-$$ \frac{\partial J(w,b)}{\partial b} = \frac{1}{m} \sum_{i=1}^{m} (f_w,_b(x^{(i)}) - y^{(i)}) $$
+### $$ \frac{\partial J(w,b)}{\partial w} = \frac{1}{m} \sum_{i=1}^{m} (f_w,_b(x^{(i)}) - y^{(i)})x^{(i)} $$
+### $$ \frac{\partial J(w,b)}{\partial b} = \frac{1}{m} \sum_{i=1}^{m} (f_w,_b(x^{(i)}) - y^{(i)}) $$
 
 - 这两个方程式是通过微积分求出来的
 
