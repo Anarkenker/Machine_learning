@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0983dc5e9b051da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19b8438eec2abba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f71da1344e41cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12.逻辑回归/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a20129bf906874e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2fd19d3cccbcf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32437478775b475c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8f51336197ea53f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b56aab871d05a037",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2368a698a8791515",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4111bd20641b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39dc20f4aae382bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12.逻辑回归/1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1 的反向链接列表"
+            }
+          },
+          {
+            "id": "b88e6a96349c5f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12.逻辑回归/1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1 的出链列表"
+            }
+          },
+          {
+            "id": "280d4659fcecc195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a1c39f07eee22d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12.逻辑回归/1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "32437478775b475c",
+  "lastOpenFiles": [
+    "13.简化损失函数",
+    "3.线性回归模型/Linear regression model.md",
+    "3.线性回归模型/Gradient_Descent.md",
+    "7.特征放缩/1.md",
+    "12.逻辑回归/1.md",
+    "image/逻辑回归/image.png",
+    "README.md",
+    "image/逻辑回归",
+    "iamge",
+    "image/逻辑回归/image-8.png",
+    "image/逻辑回归/image-7.png",
+    "10.多项式回归/1.md",
+    "8.检查梯度下降是否收敛/1.md",
+    "6.多元线性回归的梯度下降/1.md"
+  ]
+}
